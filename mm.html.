@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<head >
+<meta charset="utf-8">
+<meta name="viewport" charset="width=device-width,initial-scale=1.0,user-scalable=0,maximum-scale=1.0,minimun-sacle=1.">
+<meta http-equiv="Cache-Control" content="no-siteapp">
+<meta http-equiv="Cache-C ontrol" content="no-transform">
+<link rel="stylesheet" href="style.css">
+	<title>个人中心</title>
+</head>
+<body background="C:\tupian\u=3331837112,2756732738&fm=26&gp=0.jpg">
+<div class="content" style="display: block;margin: 0 auto; width: 20%;background: ">
+
+<head>
+<h2>个人中心</h2>
+	<div class="detail">
+		<img src="C:\tupian\F7C7077D65A89989584619F3C08BC7FF.jpg" width="100" height="" alt="不要侵犯肖像权">
+		<ul class="block">
+			<li>姓名：周光明</li>
+			<li>性别：男</li>
+			<li>手机：18737698787</li>
+			<li>学校:实物学堂</li>
+			<li>个人简介:无。</li>
+		</ul>
+	</div>
+
+<div class="edit">
+	<a href="###">编辑</a>
+</div>
+
+<div class="login-out">
+	<a href="###">退出</a>
+</div>
+</body>
+</head>
